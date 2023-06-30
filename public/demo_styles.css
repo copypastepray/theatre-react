@@ -1,0 +1,13 @@
+/* DEMO ONLY */
+  .demo-cols{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .demo-cols > *{
+    width: 20%;
+    margin: 100px 10%
+  }
+/* END DEMO ONLY */
